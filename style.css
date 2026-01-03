@@ -1,0 +1,39 @@
+section {
+
+    margin-top: 60px;
+
+}
+
+.navbar {
+    background-color: rgb(178, 50, 178);
+    padding: 20px;
+}
+
+.nav-btn {
+    background-color: rgb(233, 204, 233);
+}
+
+.nav-item a {
+    color: white !important;
+}
+
+.intro-btn {
+    background-color: rgb(178, 50, 178);
+    color: white;
+}
+
+.pricing-section {
+    background-color: rgb(236, 217, 236);
+}
+
+.starter-card {
+    background-color: rgb(104, 48, 164);
+}
+
+.popular-card {
+    box-shadow: 5px 5px 50px grey;
+}
+
+.starter-edition {
+    background-color: rgb(82, 138, 229);
+}
