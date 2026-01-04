@@ -30,10 +30,23 @@ section {
     background-color: rgb(104, 48, 164);
 }
 
+.starter-card .btn {
+    background-color: white;
+}
+
 .popular-card {
     box-shadow: 5px 5px 50px grey;
 }
 
 .starter-edition {
     background-color: rgb(82, 138, 229);
+}
+
+.starter-edition .btn {
+    background-color: white;
+}
+
+.footer-item li {
+    text-decoration: none;
+    list-style: none;
 }
