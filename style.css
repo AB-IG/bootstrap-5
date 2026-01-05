@@ -50,3 +50,7 @@ section {
     text-decoration: none;
     list-style: none;
 }
+
+.footer li {
+    display: inline;
+}
